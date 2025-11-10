@@ -1,4 +1,4 @@
-<!DOCTYPE html>         /*Datum 28.10.2025*/     /*Tauseef Ahmad Rai*/
+<!DOCTYPE html>     
 <html lang="de">                                                                                 
 <head>
   <meta charset="UTF-8" />
